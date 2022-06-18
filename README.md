@@ -29,4 +29,4 @@ Then read the code in the files to understand how it all works!
 ### Interface
 I tried to simplify the UI as much as possible.
 
-# Depoyed Link :-https://codingxpert.github.io/Stop-Watch-Using-JS/
+# Depoyed Link :-https://codingxpert.github.io/count-down-timer-using-Js/
