@@ -7,8 +7,7 @@ An ultra-simple `HTML` + `CSS` + `Countdown` Timer
 **_3.JavaScript_** <br />
 
 # Screenshots
-![Screenshot 1](https://user-images.githubusercontent.com/101451924/172603761-a9735799-1521-4025-bdb8-37f35c8dff48.png)
-![Screenshot 2](https://user-images.githubusercontent.com/101451924/172603783-f3f1ed21-3e84-45b5-b053-44b62e143d01.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/101451924/174422739-61796d48-e99a-44a2-bfdf-584afc28055f.png)
 
 
 ## Why?
